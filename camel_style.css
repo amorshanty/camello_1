@@ -1,0 +1,14 @@
+td {
+	height: 90px;
+	width: 90px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+.camel1 {
+	background-color: black;
+}
+
+.camel2 {
+	background-color: black;
+}
